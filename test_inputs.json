@@ -1,0 +1,17 @@
+[
+ {"hb":7,"rbc":3.0,"mcv":65,"mch":18,"age":45,"gender":"Female"},
+ {"hb":9,"rbc":3.5,"mcv":70,"mch":22,"age":32,"gender":"Male"},
+ {"hb":11,"rbc":3.9,"mcv":78,"mch":25,"age":28,"gender":"Female"},
+ {"hb":14,"rbc":4.8,"mcv":90,"mch":30,"age":35,"gender":"Male"},
+ {"hb":12.5,"rbc":4.2,"mcv":82,"mch":27,"age":40,"gender":"Female"},
+ {"hb":10,"rbc":4.0,"mcv":68,"mch":20,"age":25,"gender":"Male"},
+ {"hb":10.5,"rbc":3.2,"mcv":80,"mch":26,"age":50,"gender":"Female"},
+ {"hb":11,"rbc":3.8,"mcv":85,"mch":27,"age":70,"gender":"Male"},
+ {"hb":9,"rbc":5.0,"mcv":75,"mch":23,"age":30,"gender":"Male"},
+ {"hb":15,"rbc":5.2,"mcv":92,"mch":31,"age":27,"gender":"Female"},
+ {"hb":5,"rbc":2.5,"mcv":60,"mch":17,"age":55,"gender":"Female"},
+ {"hb":13,"rbc":4.5,"mcv":88,"mch":29,"age":33,"gender":"Male"},
+ {"hb":8,"rbc":3.1,"mcv":72,"mch":21,"age":48,"gender":"Female"},
+ {"hb":12,"rbc":4.0,"mcv":84,"mch":28,"age":29,"gender":"Male"},
+ {"hb":10.2,"rbc":3.6,"mcv":76,"mch":24,"age":38,"gender":"Female"}
+]
